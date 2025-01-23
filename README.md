@@ -1,7 +1,16 @@
-# 👋 Hello, I'm Temitope
-- 🚀 **DevOps & DevSecOps Engineer** passionate about automation, security, and cloud-native technologies.
-- 🔒 Embedding security into CI/CD pipelines to ensure fast, resilient, and secure workflows.
-- 🌱 Currently learning Kubernetes, Docker, and advanced Ansible automation.
+## 👋 About Me
+
+Hi there! I'm a **DevOps/DevSecOps Engineer** passionate about making software delivery **faster**, **secure**, and **resilient**. My focus is on mastering and improving the entire software development lifecycle, from **automating builds** to **testing**, **monitoring**, and **embedding security** at every stage.
+
+I thrive on:
+- **Automating** processes to ensure efficiency and consistency in software delivery.
+- **Building** systems that are scalable, reliable, and adaptable to change.
+- **Testing** to maintain quality and minimize risks throughout the pipeline.
+- **Monitoring** to keep applications performant and secure.
+- **Securing** workflows by integrating security into every phase of development.
+
+As I continue my journey in DevOps and DevSecOps, I’m committed to sharing my learning experiences and contributing to building a community of secure and efficient software delivery practices. Let’s grow together!
+
 
 
 ## 🛠️ Skills & Tools
@@ -59,25 +68,63 @@
 - 📖 Exploring advanced Kubernetes deployments
 
 
-## 📂 DevOps/DevSecOps Projects
-- **[Bashscripts]
+## 📂 Projects
+
+### 🖥️ Bash Scripting
+- **[Automated Log Parser with Bash](<Project Link>)**
+  - A simple script that parses server logs to identify errors and warnings, then summarizes them for easy debugging.
+  - **Skills Used**: Bash scripting, file handling, text processing with `grep` and `awk`.
+
+- **[File Management Automation](<Project Link>)**
+  - A script that automates organizing files into directories based on file type, with options for archiving and cleanup.
+  - **Skills Used**: Bash scripting, automation, `rsync`, `find`, and cron jobs.
+
+---
+
+### Future Projects
+- As I document more of my work, I’ll include projects related to **DevSecOps**, **AWS**, **Terraform**, and more!
+
 
 
   ## 🏅 Certifications
-
-### 🌐 Cloud & Security Certifications
-- **[ISC2 Certified in Cybersecurity (CC)](<Google Drive Link>)** | *(ISC2)*
-- **[AWS Cloud Computing](<Google Drive Link>)** | *(TrevoTech Academy)*
+- **[AWS Cloud Computing](<https://drive.google.com/file/d/1v9aQc3aIHWb8B1gJRIL8ku6ySTxSeTQR/view?usp=share_link>)** | *(TrevoTech Academy)*
 
 ### 🔒 Cybersecurity & Risk Management
-- **[Enterprise Security Risk Management](<Google Drive Link>)** | *(Infosec)*
-- **[Vulnerability Assessment](<Google Drive Link>)** | *(Infosec)*
-- **[Security Awareness Practitioner](<Google Drive Link>)** | *(Infosec)*
+- **[Enterprise Security Risk Management](<https://drive.google.com/file/d/1Sx_61Ss2SDoKdZF0AMZNAtAaBAcVZLvi/view?usp=share_link>)** | *(Infosec)*
+- **[Vulnerability Assessment](<https://drive.google.com/file/d/1FeCd3OoOfr4im-kAo9NcQcVe47-gUvMF/view?usp=share_link>)** | *(Infosec)*
+- **[Security Awareness Practitioner](<https://drive.google.com/file/d/1cxSA6CdTuD_LfRskfav-j7_D2WJJdIYb/view?usp=share_link>)** | *(Infosec)*
 
 ### 📜 CompTIA Certifications
-- **[CompTIA Security+](<Google Drive Link>)** | *(Infosec)*
-- **[CompTIA Linux+](<Google Drive Link>)** | *(Infosec)*
+- **[CompTIA Security+](<https://drive.google.com/file/d/1K80JBQmefcJ8nZZ4Lc37Hr6cdwSZwyqx/view?usp=share_link>)** | *(Infosec)*
 
 ### 🚀 DevSecOps Focus
 - **[DevSecOps Fundamentals](<https://drive.google.com/file/d/1rc6TMNbCCsmKQ3LcCfnvR7VyvV2y63db/view?usp=share_link>)** | *(Infosec)*
 
+- ### 🛡️ Microsoft Certifications
+- **[Microsoft Certified: Information Protection and Compliance Administrator Associate](<https://drive.google.com/file/d/1gYXfEp60v0w_NIvBtr7NNpNdRJ0X9cJz/view?usp=share_link>)** | *(Microsoft)*
+
+### 🌐 Cloud & Security Certifications## 📘 Guides I’ve Created
+
+### 🖥️ Linux Guides
+- **[Linux Hands-On Guide (Step-by-Step with Pictures)](<https://drive.google.com/file/d/1OABD8jZEDb5catu3vavHPrhYTsIpsE96/view?usp=share_link>)**  
+  A comprehensive hands-on guide with detailed steps and pictures to help beginners and advanced users navigate Linux environments.
+
+### ☁️ Cloud Computing Guides
+- **[How to Connect to an EC2 Instance Guide](<https://drive.google.com/file/d/1-3T8K361eZCLk60xyvcuWvD0y-yWTDaQ/view?usp=share_link>)**  
+  A step-by-step guide explaining how to connect to an AWS EC2 instance, including setup and troubleshooting tips.
+
+### 🔒 DevSecOps Guides
+- **[Introduction to DevSecOps Guide](<https://drive.google.com/file/d/1-ayEhodWSHuOXh_Z4dYwMBEuc3oeER_S/view?usp=share_link>)**  
+  A beginner-friendly guide that introduces the core concepts, tools, and practices of DevSecOps for secure and automated workflows.
+
+## 🧑‍💻 Current Learning Goals
+- Building **secure CI/CD pipelines** using GitHub Actions and Jenkins.
+- Mastering **Kubernetes** for managing microservices.
+- Implementing **Infrastructure as Code** with Terraform.
+- Learning **Advanced Ansible Automation** for deployments.
+
+---
+
+## 📬 How to Reach Me
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/temitope-adeniyi-gbadamosi-0a0720120)
+- **GitHub**: [GitHub Profile](https://github.com/temitopeade23)
