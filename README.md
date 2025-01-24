@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi there! I'm a budding **DevOps/DevSecOps Engineer** passionate about making software delivery **faster**, **secure**, and **resilient**. My focus is on mastering and improving the entire software development lifecycle, from **automating builds** to **testing**, **monitoring**, and **embedding security** at every stage.
+Hi there! I'm a **DevOps/DevSecOps Engineer** passionate about making software delivery **faster**, **secure**, and **resilient**. My focus is on mastering and improving the entire software development lifecycle, from **automating builds** to **testing**, **monitoring**, and **embedding security** at every stage.
 
 I thrive on:
 - **Automating** processes to ensure efficiency and consistency in software delivery.
