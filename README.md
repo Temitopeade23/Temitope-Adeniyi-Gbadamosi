@@ -71,13 +71,10 @@ As I continue my journey in DevOps and DevSecOps, I’m committed to sharing my 
 ## 📂 Projects
 
 ### 🖥️ Bash Scripting
-- **[Automated Log Parser with Bash](<Project Link>)**
-  - A simple script that parses server logs to identify errors and warnings, then summarizes them for easy debugging.
-  - **Skills Used**: Bash scripting, file handling, text processing with `grep` and `awk`.
+-1. **[Git Installation Script](https://github.com/Temitopeade23/bash-scripting-projects/tree/main)**  
+   - Automates the installation of Git on Linux and macOS, detecting the operating system and package manager.
+2. **[More Projects Coming Soon...]**
 
-- **[File Management Automation](<Project Link>)**
-  - A script that automates organizing files into directories based on file type, with options for archiving and cleanup.
-  - **Skills Used**: Bash scripting, automation, `rsync`, `find`, and cron jobs.
 
 ---
 
