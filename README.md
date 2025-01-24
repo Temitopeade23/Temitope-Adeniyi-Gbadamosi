@@ -71,7 +71,7 @@ As I continue my journey in DevOps and DevSecOps, I’m committed to sharing my 
 ## 📂 Projects
 
 ### 🖥️ Bash Scripting
--1. **[Git Installation Script](https://github.com/Temitopeade23/bash-scripting-projects/tree/main)**  
+1. **[Git Installation Script](https://github.com/Temitopeade23/bash-scripting-projects/tree/main)**  
    - Automates the installation of Git on Linux and macOS, detecting the operating system and package manager.
 2. **[More Projects Coming Soon...]**
 
