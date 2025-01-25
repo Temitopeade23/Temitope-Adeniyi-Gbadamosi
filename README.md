@@ -73,7 +73,26 @@ As I continue my journey in DevOps and DevSecOps, I’m committed to sharing my 
 ### 🖥️ Bash Scripting
 1. **[Git Installation Script](https://github.com/Temitopeade23/bash-scripting-projects/tree/main)**  
    - Automates the installation of Git on Linux and macOS, detecting the operating system and package manager.
-2. **[More Projects Coming Soon...]**
+  
+2. ### Risk Assessment for a Hypothetical FinTech Startup
+
+**Problem:**  
+A fictional FinTech startup required a comprehensive risk assessment to identify vulnerabilities and ensure the development of a robust Information Security Management System (ISMS) as part of ISO 27001 implementation.
+
+**Action:**  
+- Conducted an asset-based risk assessment, analyzing threats and vulnerabilities specific to the FinTech industry.  
+- Evaluated risks based on likelihood and impact, categorizing them into a risk matrix.  
+- Recommended risk treatment plans to mitigate high-priority risks.  
+- Documented the entire process, aligning with ISO 27001 standards.  
+- Delivered a detailed report, including actionable insights, a risk matrix, and suggested controls.
+
+**Result:**  
+Provided actionable insights and strategies that enhanced the startup's security posture and supported its journey toward ISO 27001 certification.
+
+➡️ [View Project Details](YOUR_GOOGLE_DRIVE_LINK_HERE)
+
+
+4. **[More Projects Coming Soon...]**
 
 
 ---
