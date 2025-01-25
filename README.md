@@ -74,10 +74,14 @@ As I continue my journey in DevOps and DevSecOps, I’m committed to sharing my 
 1. **[Git Installation Script](https://github.com/Temitopeade23/bash-scripting-projects/tree/main)**  
    - Automates the installation of Git on Linux and macOS, detecting the operating system and package manager.
   
-2. ### Risk Assessment for a Hypothetical FinTech Startup
+2. **[More Projects Coming Soon...]**
+  
+
+## GOVERNANCE RISK AND COMPLIANCE Projects  
+1. ### Risk Assessment for a FinTech Startup
 
 **Problem:**  
-A fictional FinTech startup required a comprehensive risk assessment to identify vulnerabilities and ensure the development of a robust Information Security Management System (ISMS) as part of ISO 27001 implementation.
+A FinTech startup required a comprehensive risk assessment to identify vulnerabilities and ensure the development of a robust Information Security Management System (ISMS) as part of ISO 27001 implementation.
 
 **Action:**  
 - Conducted an asset-based risk assessment, analyzing threats and vulnerabilities specific to the FinTech industry.  
@@ -89,10 +93,38 @@ A fictional FinTech startup required a comprehensive risk assessment to identify
 **Result:**  
 Provided actionable insights and strategies that enhanced the startup's security posture and supported its journey toward ISO 27001 certification.
 
-➡️ [View Project Details](YOUR_GOOGLE_DRIVE_LINK_HERE)
+➡️ [View Project Details](https://drive.google.com/drive/folders/1-519EiZEsTNEoYRqOe6pCBN65rTmAeDv)
 
+2. ### PCI-DSS Implementation for a FinTech Startup
 
-4. **[More Projects Coming Soon...]**
+**Problem:**  
+A FinTech startup needed to ensure compliance with PCI-DSS standards for secure payment processing systems.
+
+**Action:**  
+- Conducted a detailed PCI-DSS gap assessment to identify areas of non-compliance and proposed remediation strategies.  
+- Developed an Excel-based compliance tracking workbook with dynamic features for issue tracking, gap analysis, and milestone monitoring.  
+- Designed a comprehensive remediation plan addressing critical controls, such as data encryption, network segmentation, and access management.  
+- Drafted PCI-DSS-compliant policies and procedures that were aligned with industry standards for secure payment processing systems.
+
+**Result:**  
+The FinTech startup received actionable strategies and tools for achieving PCI-DSS compliance, ensuring secure payment processing and aligning with regulatory requirements.
+
+➡️ [View Project Details](https://drive.google.com/drive/folders/1gUR_Ixfqm50L2aHfZg0vcNJN7wxutstd)
+
+3. ### Phishing Awareness Campaign Simulation
+
+**Problem:**  
+Organizations needed a realistic and ethical way to educate employees about phishing tactics and enhance their cybersecurity awareness.
+
+**Action:**  
+- Designed and deployed a phishing email landing page as part of a cybersecurity awareness simulation, using AWS S3 buckets for hosting and storage.  
+- Configured a custom domain and integrated AWS services to simulate real-world phishing scenarios securely and ethically.  
+- Utilized HTML and CSS to create a realistic landing page that mimicked common phishing tactics for educational purposes.  
+
+**Result:**  
+Delivered a controlled and effective phishing simulation campaign that educated employees on recognizing phishing attempts, significantly improving awareness and resilience against social engineering attacks.
+
+➡️ [View Project Details](https://drive.google.com/drive/folders/1-LRZl7etRzUynyf8hKWoPAa8oqh5kEsM)
 
 
 ---
