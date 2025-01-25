@@ -1,15 +1,23 @@
 ## 👋 About Me
 
-Hi there! I'm a **DevOps/DevSecOps Engineer** passionate about making software delivery **faster**, **secure**, and **resilient**. My focus is on mastering and improving the entire software development lifecycle, from **automating builds** to **testing**, **monitoring**, and **embedding security** at every stage.
+Hi there! I'm a **DevOps/DevSecOps Engineer** with a strong foundation in **Governance, Risk, and Compliance (GRC)**. My work focuses on delivering **secure**, **scalable**, and **efficient** solutions by integrating automation and security into every stage of the software development lifecycle.
 
-I thrive on:
-- **Automating** processes to ensure efficiency and consistency in software delivery.
-- **Building** systems that are scalable, reliable, and adaptable to change.
-- **Testing** to maintain quality and minimize risks throughout the pipeline.
-- **Monitoring** to keep applications performant and secure.
-- **Securing** workflows by integrating security into every phase of development.
+### What I Do:
+- **Automating Workflows**: Streamlining CI/CD pipelines to ensure faster, more reliable builds, tests, and deployments.
+- **Infrastructure as Code (IaC)**: Using tools like Terraform and Ansible to build scalable and version-controlled infrastructure.
+- **Software Supply Chain Security**: Identifying and mitigating risks in dependencies, third-party tools, and pipelines to safeguard the entire software supply chain.
+- **Vulnerability Management**: Embedding automated security checks, conducting threat modeling, and performing regular risk assessments to address vulnerabilities proactively.
+- **Monitoring and Observability**: Implementing systems to ensure applications remain performant, reliable, and secure.
+- **Compliance Integration**: Aligning workflows with industry standards such as **PCI-DSS**, **ISO 27001**, and **NIST CSF** to meet compliance requirements without slowing down delivery.
+- **Secure Development Practices**: Enforcing secure coding standards to improve code quality and reduce risks.
 
-As I continue my journey in DevOps and DevSecOps, I’m committed to sharing my learning experiences and contributing to building a community of secure and efficient software delivery practices. Let’s grow together!
+### How My GRC Expertise Enhances DevOps/DevSecOps:
+With my experience in **Governance, Risk, and Compliance (GRC)**, I bring a unique perspective to DevSecOps, bridging the gap between technical implementation and compliance requirements. This ensures that security and compliance are embedded seamlessly into automated workflows, resulting in systems that are both resilient and aligned with industry standards.
+
+Every project I work on aims to strike the perfect balance between **speed**, **security**, and **compliance**, empowering teams to deliver software that is both innovative and responsible.
+
+Let’s connect and collaborate on building secure, scalable, and efficient solutions for the future!
+
 
 
 
@@ -68,7 +76,7 @@ As I continue my journey in DevOps and DevSecOps, I’m committed to sharing my 
 - 📖 Exploring advanced Kubernetes deployments
 
 
-## 📂 Projects
+## DevOps/DevSecOps Projects 
 
 ### 🖥️ Bash Scripting
 1. **[Git Installation Script](https://github.com/Temitopeade23/bash-scripting-projects/tree/main)**  
@@ -77,7 +85,7 @@ As I continue my journey in DevOps and DevSecOps, I’m committed to sharing my 
 2. **[More Projects Coming Soon...]**
   
 
-## GOVERNANCE RISK AND COMPLIANCE Projects  
+## Governance Risk and Compliance Projects  
 1. ### Risk Assessment for a FinTech Startup
 
 **Problem:**  
