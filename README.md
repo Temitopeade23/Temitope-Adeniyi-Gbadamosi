@@ -159,7 +159,12 @@ Delivered a controlled and effective phishing simulation campaign that educated 
 - ### 🛡️ Microsoft Certifications
 - **[Microsoft Certified: Information Protection and Compliance Administrator Associate](<https://drive.google.com/file/d/1gYXfEp60v0w_NIvBtr7NNpNdRJ0X9cJz/view?usp=share_link>)** | *(Microsoft)*
 
-### 🌐 Cloud & Security Certifications## 📘 Guides I’ve Created
+### 📘 Guides I’ve Created
+
+## Guide: Containerizing, Securing, and Deploying a Web Application with Docker and AWS EC2
+A hands-on guide to building, securing, and deploying Docker images on AWS EC2, with key security best practices.
+[Read the Full Guide](https://drive.google.com/file/d/1IEIJzH_fN-6ahPytzmLxWOFW9ARJixjg/view?usp=share_link)
+
 
 ### 🖥️ Linux Guides
 - **[Linux Hands-On Guide (Step-by-Step with Pictures)](<https://drive.google.com/file/d/1OABD8jZEDb5catu3vavHPrhYTsIpsE96/view?usp=share_link>)**  
