@@ -1,91 +1,50 @@
 ## 👋 About Me
 
-Hi there! I'm a **DevOps/DevSecOps Engineer** with a strong foundation in **Governance, Risk, and Compliance (GRC)**. My work focuses on delivering **secure**, **scalable**, and **efficient** solutions by integrating automation and security into every stage of the software development lifecycle.
+# GRC Professional with Technical Expertise
 
-### What I Do:
-- **Automating Workflows**: Streamlining CI/CD pipelines to ensure faster, more reliable builds, tests, and deployments.
-- **Infrastructure as Code (IaC)**: Using tools like Terraform and Ansible to build scalable and version-controlled infrastructure.
-- **Software Supply Chain Security**: Identifying and mitigating risks in dependencies, third-party tools, and pipelines to safeguard the entire software supply chain.
-- **Vulnerability Management**: Embedding automated security checks, conducting threat modeling, and performing regular risk assessments to address vulnerabilities proactively.
-- **Monitoring and Observability**: Implementing systems to ensure applications remain performant, reliable, and secure.
-- **Compliance Integration**: Aligning workflows with industry standards such as **PCI-DSS**, **ISO 27001**, and **NIST CSF** to meet compliance requirements without slowing down delivery.
-- **Secure Development Practices**: Enforcing secure coding standards to improve code quality and reduce risks.
+I am a GRC professional with hands-on experience in security policy development, risk assessment, and compliance frameworks. My work has involved:
 
-### How My GRC Expertise Enhances DevOps/DevSecOps:
-With my experience in **Governance, Risk, and Compliance (GRC)**, I bring a unique perspective to DevSecOps, bridging the gap between technical implementation and compliance requirements. This ensures that security and compliance are embedded seamlessly into automated workflows, resulting in systems that are both resilient and aligned with industry standards.
+✔ Developing 20+ security policies aligned with ISO 27001 operational standards  
+✔ Leading a PCI-DSS implementation, ensuring compliance for secure transactions  
+✔ Conducting a risk assessment for a fintech startup, identifying security gaps and controls  
+✔ Earning certifications in **ISC2 CC** & **Microsoft SC-400**  
 
-Every project I work on aims to strike the perfect balance between **speed**, **security**, and **compliance**, empowering teams to deliver software that is both innovative and responsible.
+Beyond compliance, I have technical expertise in **CI/CD, Docker, Kubernetes, cloud platforms (AWS & Azure), and Python coding**.
 
-Let’s connect and collaborate on building secure, scalable, and efficient solutions for the future!
+As organizations shift toward cloud-native and automated environments, compliance can’t remain static. It needs to evolve. That’s why I’ve expanded my technical expertise, ensuring that security and compliance are not just policies on paper but actively enforced through automation and integration within **DevSecOps workflows**.
+
+I am looking to apply my GRC expertise in a security-driven organization while leveraging automation to make compliance more **scalable, efficient, and proactive**.
 
 
 
 
 ## 🛠️ Skills & Tools
 
-### 🚀 DevOps Tools
-- **Build & CI/CD**: 
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-blue?logo=jenkins)
-  ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven)
-  ![SonarQube](https://img.shields.io/badge/-SonarQube-yellow?logo=sonarqube)
-  ![Nexus](https://img.shields.io/badge/-Nexus-blueviolet?logo=sonatype)
-- **Containerization & Orchestration**: 
-  ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes)
-- **Configuration Management & Automation**: 
-  ![Ansible](https://img.shields.io/badge/-Ansible-red?logo=ansible)
-  ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform)
-  
----
+## 🛡️ **Key Skills & Expertise**  
 
-### 🌐 Cloud & Infrastructure
-- **Cloud Platforms**: 
-  ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)
-- **Servers & Tools**: 
-  ![Tomcat](https://img.shields.io/badge/-Tomcat-brightgreen?logo=apache-tomcat)
-
----
-
-### 📜 Programming & Scripting
-- ![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash)
-- ![Python](https://img.shields.io/badge/-Python-green?logo=python)
-
----
-
-### 📊 Monitoring & Observability
-- ![Prometheus](https://img.shields.io/badge/-Prometheus-ff5722?logo=prometheus)
-- ![Grafana](https://img.shields.io/badge/-Grafana-orange?logo=grafana)
-
----
-
-### 🛠️ Version Control
-- **Git**: 
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-
----
-
-### 📖 Currently Upskilling In:
-- **Advanced Kubernetes Deployments**
-- **Terraform for IaC**
-- **Ansible Automation**
-
-
-## 🧑‍💻 Learning Journey
-- 🔧 **Improving CI/CD Pipeline Security**
-- 🛠 **Building Infrastructure as Code (IaC) with Terraform**
-- 📖 Exploring advanced Kubernetes deployments
-
-
-## DevOps/DevSecOps Projects 
-
-### 🖥️ Bash Scripting
-1. **[Git Installation Script](https://github.com/Temitopeade23/bash-scripting-projects/tree/main)**  
-   - Automates the installation of Git on Linux and macOS, detecting the operating system and package manager.
-  
-2. **[More Projects Coming Soon...]**
+![Cyber Security Risk Management](https://img.shields.io/badge/-Cyber%20Security%20Risk%20Management-blue)  
+![Asset Management](https://img.shields.io/badge/-Asset%20Management-blue)  
+![Security Education & Awareness](https://img.shields.io/badge/-Security%20Education%20%26%20Awareness-blue)  
+![Audit (Three Lines of Defence)](https://img.shields.io/badge/-Audit%20(Three%20Lines%20of%20Defence)-blue)  
+![Third-Party & Supply Chain Assessments](https://img.shields.io/badge/-Third--Party%20%26%20Supply%20Chain%20Assessments-blue)  
+![Identity & Access Management (IAM)](https://img.shields.io/badge/-IAM%20(Identity%20%26%20Access%20Management)-blue)  
+![Policy Development & Implementation](https://img.shields.io/badge/-Policy%20Development%20%26%20Implementation-blue)  
+![Vulnerability Management](https://img.shields.io/badge/-Vulnerability%20Management-blue)  
+![Nessus](https://img.shields.io/badge/-Nessus-blue)  
+![Cybersecurity Program Implementation](https://img.shields.io/badge/-Cybersecurity%20Program%20Implementation-blue)  
+![PCI-DSS Compliance](https://img.shields.io/badge/-PCI--DSS%20Compliance-blue)  
+![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-blue)  
+![ISO 31000](https://img.shields.io/badge/-ISO%2031000-blue)  
+![ISO 27001 Implementation](https://img.shields.io/badge/-ISO%2027001%20Implementation-blue)  
+![Cloud Security (AWS & Azure)](https://img.shields.io/badge/-Cloud%20Security%20(AWS%20%26%20Azure)-blue)  
+![Python for Automation
+](https://img.shields.io/badge/-Python%20for%20Security-blue)  
   
 
-## Governance Risk and Compliance Projects  
+
+
+
+## Projects  
 1. ### Risk Assessment for a FinTech Startup
 
 **Problem:**  
@@ -135,12 +94,6 @@ Delivered a controlled and effective phishing simulation campaign that educated 
 ➡️ [View Project Details](https://drive.google.com/drive/folders/1-LRZl7etRzUynyf8hKWoPAa8oqh5kEsM)
 
 
----
-
-### Future Projects
-- As I document more of my work, I’ll include projects related to **DevSecOps**, **AWS**, **Terraform**, and more!
-
-
 
   ## 🏅 Certifications
 - **[AWS Cloud Computing](<https://drive.google.com/file/d/1v9aQc3aIHWb8B1gJRIL8ku6ySTxSeTQR/view?usp=share_link>)** | *(TrevoTech Academy)*
@@ -153,8 +106,6 @@ Delivered a controlled and effective phishing simulation campaign that educated 
 ### 📜 CompTIA Certifications
 - **[CompTIA Security+](<https://drive.google.com/file/d/1K80JBQmefcJ8nZZ4Lc37Hr6cdwSZwyqx/view?usp=share_link>)** | *(Infosec)*
 
-### 🚀 DevSecOps Focus
-- **[DevSecOps Fundamentals](<https://drive.google.com/file/d/1rc6TMNbCCsmKQ3LcCfnvR7VyvV2y63db/view?usp=share_link>)** | *(Infosec)*
 
 - ### 🛡️ Microsoft Certifications
 - **[Microsoft Certified: Information Protection and Compliance Administrator Associate](<https://drive.google.com/file/d/1gYXfEp60v0w_NIvBtr7NNpNdRJ0X9cJz/view?usp=share_link>)** | *(Microsoft)*
@@ -171,18 +122,6 @@ Delivered a controlled and effective phishing simulation campaign that educated 
 ### ☁️ Cloud Computing Guides
 - **[How to Connect to an EC2 Instance Guide](<https://drive.google.com/file/d/1-3T8K361eZCLk60xyvcuWvD0y-yWTDaQ/view?usp=share_link>)**  
   A step-by-step guide explaining how to connect to an AWS EC2 instance, including setup and troubleshooting tips.
-
-### 🔒 DevSecOps Guides
-- **[Introduction to DevSecOps Guide](<https://drive.google.com/file/d/1-ayEhodWSHuOXh_Z4dYwMBEuc3oeER_S/view?usp=share_link>)**  
-  A beginner-friendly guide that introduces the core concepts, tools, and practices of DevSecOps for secure and automated workflows.
-
-## 🧑‍💻 Current Learning Goals
-- Building **secure CI/CD pipelines** using GitHub Actions and Jenkins.
-- Mastering **Kubernetes** for managing microservices.
-- Implementing **Infrastructure as Code** with Terraform.
-- Learning **Advanced Ansible Automation** for deployments.
-
----
 
 ## 📬 How to Reach Me
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/temitope-adeniyi-gbadamosi-0a0720120)
