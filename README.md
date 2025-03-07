@@ -94,7 +94,25 @@ The FinTech startup received actionable strategies and tools for achieving PCI-D
 
 ➡️ [View Project Details](https://drive.google.com/drive/folders/1gUR_Ixfqm50L2aHfZg0vcNJN7wxutstd)
 
-3. ### Phishing Awareness Campaign Simulation
+
+3. # Vulnerability Assessment Using Nessus Scanner
+
+## Problem:
+Organizations need a structured approach to identify security weaknesses in their IT infrastructure and ensure compliance with industry standards.
+
+## Action:
+- Conducted a **comprehensive vulnerability assessment** using **Nessus Vulnerability Scanner** to detect security flaws across servers and endpoints.
+- Configured **Nessus on an Azure Virtual Machine** to perform internal and external scans while ensuring minimal system disruption.
+- Assessed vulnerabilities based on **CVSS (Common Vulnerability Scoring System)** to prioritize remediation efforts effectively.
+- Analyzed **misconfigurations, outdated software, weak authentication mechanisms, and exposed services**.
+- Generated detailed reports highlighting vulnerabilities, risk levels, and actionable remediation steps.
+
+## Result:
+- Successfully **identified and documented** critical, high, and medium vulnerabilities, providing a roadmap for remediation.
+
+➡️ [View Project Details](https://drive.google.com/file/d/15BGMx5sjYjSEJcR593rEhCnJB7xy9wbn/view?usp=share_link)
+
+4. ### Phishing Awareness Campaign Simulation
 
 **Problem:**  
 Organizations needed a realistic and ethical way to educate employees about phishing tactics and enhance their cybersecurity awareness.
