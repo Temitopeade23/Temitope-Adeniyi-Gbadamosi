@@ -21,31 +21,44 @@ I am looking to apply my GRC expertise in a security-driven organization while l
 ## 🛠️ Skills & Tools
 
 ## 🛡️ **Key Skills & Expertise**  
-
+### **Security & Compliance**  
 ![Cyber Security Risk Management](https://img.shields.io/badge/-Cyber%20Security%20Risk%20Management-blue)  
-![Asset Management](https://img.shields.io/badge/-Asset%20Management-blue)  
-![Security Education & Awareness](https://img.shields.io/badge/-Security%20Education%20%26%20Awareness-blue)  
-![Audit (Three Lines of Defence)](https://img.shields.io/badge/-Audit%20(Three%20Lines%20of%20Defence)-blue)  
-![Third-Party & Supply Chain Assessments](https://img.shields.io/badge/-Third--Party%20%26%20Supply%20Chain%20Assessments-blue)  
-![Identity & Access Management (IAM)](https://img.shields.io/badge/-IAM%20(Identity%20%26%20Access%20Management)-blue)  
-![Policy Development & Implementation](https://img.shields.io/badge/-Policy%20Development%20%26%20Implementation-blue)  
-![Vulnerability Management](https://img.shields.io/badge/-Vulnerability%20Management-blue)  
-![Nessus](https://img.shields.io/badge/-Nessus-blue)  
-![Cybersecurity Program Implementation](https://img.shields.io/badge/-Cybersecurity%20Program%20Implementation-blue)  
 ![PCI-DSS Compliance](https://img.shields.io/badge/-PCI--DSS%20Compliance-blue)  
+![ISO 27001 Implementation](https://img.shields.io/badge/-ISO%2027001%20Implementation-blue)  
 ![NIST CSF Implementation & Assessment](https://img.shields.io/badge/-NIST%20CSF%20Implementation%20%26%20Assessment-blue)  
 ![ISO 31000 Risk Management](https://img.shields.io/badge/-ISO%2031000%20Risk%20Management-blue)  
-![ISO 27001 Implementation](https://img.shields.io/badge/-ISO%2027001%20Implementation-blue)  
-![Cloud Security (AWS & Azure)](https://img.shields.io/badge/-Cloud%20Security%20(AWS%20%26%20Azure)-blue)  
-![Python for Automation](https://img.shields.io/badge/-Python%20for%20Security-blue)  
-![Microsoft Purview Information Protection](https://img.shields.io/badge/-Microsoft%20Purview%20Information%20Protection-blue)  
-![Data Loss Prevention (DLP)](https://img.shields.io/badge/-Data%20Loss%20Prevention%20(DLP)-blue)  
+![Policy Development & Implementation](https://img.shields.io/badge/-Policy%20Development%20%26%20Implementation-blue)  
+![Audit (Three Lines of Defence)](https://img.shields.io/badge/-Audit%20(Three%20Lines%20of%20Defence)-blue)  
 ![Information Governance](https://img.shields.io/badge/-Information%20Governance-blue)  
 
+---
+
+### **Risk Management & Security Assessments**  
+![Vulnerability Management](https://img.shields.io/badge/-Vulnerability%20Management-blue)  
+![Nessus](https://img.shields.io/badge/-Nessus-blue)  
+![Third-Party & Supply Chain Assessments](https://img.shields.io/badge/-Third--Party%20%26%20Supply%20Chain%20Assessments-blue)  
+![Identity & Access Management (IAM)](https://img.shields.io/badge/-IAM%20(Identity%20%26%20Access%20Management)-blue)  
+
+---
+
+### **Security Education & Awareness**  
+![Security Education & Awareness](https://img.shields.io/badge/-Security%20Education%20%26%20Awareness-blue)  
+![Cybersecurity Program Implementation](https://img.shields.io/badge/-Cybersecurity%20Program%20Implementation-blue)  
+
+---
+
+### **Cloud & Automation**  
+![Cloud platforms (AWS & Azure)](https://img.shields.io/badge/-Cloud%20Security%20(AWS%20%26%20Azure)-blue)  
+![Python for Automation](https://img.shields.io/badge/-Python%20for%20Security-blue)  
+
+---
+
+### **Data Protection & Compliance Tools**  
+![Microsoft Purview Information Protection](https://img.shields.io/badge/-Microsoft%20Purview%20Information%20Protection-blue)  
+![Data Loss Prevention (DLP)](https://img.shields.io/badge/-Data%20Loss%20Prevention%20(DLP)-blue)  
+
+
   
-
-
-
 
 ## Projects  
 1. ### Risk Assessment for a FinTech Startup
