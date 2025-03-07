@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-# GRC Professional
+# Temitope Adeniyi Gbadamosi
 
 I am a GRC professional with hands-on experience in security policy development, risk assessment, and compliance frameworks. My work has involved:
 
@@ -33,12 +33,11 @@ I am looking to apply my GRC expertise in a security-driven organization while l
 ![Nessus](https://img.shields.io/badge/-Nessus-blue)  
 ![Cybersecurity Program Implementation](https://img.shields.io/badge/-Cybersecurity%20Program%20Implementation-blue)  
 ![PCI-DSS Compliance](https://img.shields.io/badge/-PCI--DSS%20Compliance-blue)  
-![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-blue)  
-![ISO 31000](https://img.shields.io/badge/-ISO%2031000-blue)  
+![NIST CSF Implementation & Assessment](https://img.shields.io/badge/-NIST%20CSF%20Implementation%20%26%20Assessment-blue)  
+![ISO 31000 Risk Management](https://img.shields.io/badge/-ISO%2031000%20Risk%20Management-blue)  
 ![ISO 27001 Implementation](https://img.shields.io/badge/-ISO%2027001%20Implementation-blue)  
 ![Cloud Security (AWS & Azure)](https://img.shields.io/badge/-Cloud%20Security%20(AWS%20%26%20Azure)-blue)  
-![Python for Automation
-](https://img.shields.io/badge/-Python%20for%20Security-blue)  
+![Python for Automation](https://img.shields.io/badge/-Python%20for%20Security-blue)  
   
 
 
