@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-# GRC Professional with Technical Expertise
+# GRC Professional
 
 I am a GRC professional with hands-on experience in security policy development, risk assessment, and compliance frameworks. My work has involved:
 
