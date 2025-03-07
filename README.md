@@ -102,7 +102,7 @@ Organizations need a structured approach to identify security weaknesses in thei
 
 ## Action:
 - Conducted a **comprehensive vulnerability assessment** using **Nessus Vulnerability Scanner** to detect security flaws across servers and endpoints.
-- Configured **Nessus on an Azure Virtual Machine** to perform internal and external scans while ensuring minimal system disruption.
+- Configured **Nessus on an Azure Virtual Machine** to perform an advanced credentialed scan.
 - Assessed vulnerabilities based on **CVSS (Common Vulnerability Scoring System)** to prioritize remediation efforts effectively.
 - Analyzed **misconfigurations, outdated software, weak authentication mechanisms, and exposed services**.
 - Generated detailed reports highlighting vulnerabilities, risk levels, and actionable remediation steps.
