@@ -38,6 +38,10 @@ I am looking to apply my GRC expertise in a security-driven organization while l
 ![ISO 27001 Implementation](https://img.shields.io/badge/-ISO%2027001%20Implementation-blue)  
 ![Cloud Security (AWS & Azure)](https://img.shields.io/badge/-Cloud%20Security%20(AWS%20%26%20Azure)-blue)  
 ![Python for Automation](https://img.shields.io/badge/-Python%20for%20Security-blue)  
+![Microsoft Purview Information Protection](https://img.shields.io/badge/-Microsoft%20Purview%20Information%20Protection-blue)  
+![Data Loss Prevention (DLP)](https://img.shields.io/badge/-Data%20Loss%20Prevention%20(DLP)-blue)  
+![Information Governance](https://img.shields.io/badge/-Information%20Governance-blue)  
+
   
 
 
