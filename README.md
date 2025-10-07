@@ -1,21 +1,28 @@
-## 👋 About Me
+## 👋 About Me  
 
-# Temitope Adeniyi Gbadamosi
+# Temitope Adeniyi Gbadamosi  
 
-I am a GRC professional with hands-on experience in security policy development, risk assessment, and compliance frameworks. My work has involved:
+I am an **Information Security Analyst (GRC)** with experience supporting financial sector organizations in end-to-end compliance projects. I specialize in helping businesses identify security gaps, strengthen governance structures, and achieve regulatory alignment.  
 
-✔ Developing 20+ security policies aligned with ISO 27001 operational standards  
-✔ Leading a PCI-DSS implementation, ensuring compliance for secure transactions  
-✔ Conducting a risk assessment for a fintech startup, identifying security gaps and controls  
-✔ Earning certifications in **ISC2 CC** & **Microsoft SC-400**  
+### 💼 What I’ve Done  
+✔ Led **ISO/IEC 27001:2022 implementations** – facilitating opening meetings, conducting gap assessments, scoping, risk assessments, and preparing organizations for external certification audits.  
+✔ Managed **PCI DSS compliance projects** – coordinating evidence collection, validating readiness, and liaising between clients and QSAs.  
+✔ Conducted a **PCI Logical & Physical Provisioning Audit** at a card production facility – developed the audit plan, checklist, and work papers; held the opening meeting; reviewed documentation; performed on-site testing; and prepared the final audit report.  
+✔ Supported **NDPA compliance** – reviewing and customizing policies, preparing audit-ready evidence, coordinating external audits, and filing reports with the NDPC.  
+✔ Developed and redesigned **120+ professional PowerPoint decks** for client trainings, opening meetings, and compliance awareness sessions.  
+✔ Drafted professional proposals and security documentation for client engagements.  
 
-Beyond compliance, I have technical expertise in **CI/CD, Docker, Kubernetes, cloud platforms (AWS & Azure), and Python coding**.
+### 🛠 Skills & Strengths  
+- **Governance & Compliance:** ISO/IEC 27001:2022, PCI DSS, NDPA, ISO 22301, ISO 27701, GDPR, NIST CSF, CIS Controls  
+- **Audits & Assessments:** Gap assessments, audit planning, control testing, documentation review, audit reporting  
+- **Risk Management:** Asset-based risk assessments, 5x5 risk matrix, risk register development  
+- **Policy & Documentation:** Security policies, procedures, Statements of Applicability (SoA), compliance trackers, audit evidence packs  
+- **Training & Awareness:** Client-facing trainings, security awareness materials, ISO standard workshops  
+- **Tools & Platforms:** Nessus, Wizer, OpenCTI, AlienVault OTX, Microsoft Excel & PowerPoint  
+- **Cloud Awareness:** Familiar with Microsoft Azure and AWS security contexts  
 
-As organizations shift toward cloud-native and automated environments, compliance can’t remain static. It needs to evolve. That’s why I’ve expanded my technical expertise, ensuring that security and compliance are not just policies on paper but actively enforced through automation and integration within **DevSecOps workflows**.
-
-I am looking to apply my GRC expertise in a security-driven organization while leveraging automation to make compliance more **scalable, efficient, and proactive**.
-
-
+### 🎯 What I’m Looking For  
+I’m eager to apply my GRC expertise in a security-driven organization — helping to build compliance programs, strengthen risk management, and support successful audits and certifications.  
 
 
 ## 🛠️ Skills & Tools
@@ -47,18 +54,11 @@ I am looking to apply my GRC expertise in a security-driven organization while l
 
 ---
 
-### **Cloud & Automation**  
-![Cloud platforms (AWS & Azure)](https://img.shields.io/badge/-Cloud%20Security%20(AWS%20%26%20Azure)-blue)  
-![Python for Automation](https://img.shields.io/badge/-Python%20for%20Security-blue)  
-
----
-
 ### **Data Protection & Compliance Tools**  
 ![Microsoft Purview Information Protection](https://img.shields.io/badge/-Microsoft%20Purview%20Information%20Protection-blue)  
 ![Data Loss Prevention (DLP)](https://img.shields.io/badge/-Data%20Loss%20Prevention%20(DLP)-blue)  
 
 
-  
 
 ## Projects  
 1. ### Risk Assessment for a FinTech Startup
@@ -146,8 +146,6 @@ Delivered a controlled and effective phishing simulation campaign that educated 
 
 ### 📘 Guides I’ve Created
 
-### 🐳 Docker Guides
-- **[Containerizing, Securing, and Deploying a Web Application with Docker and AWS EC2](<https://drive.google.com/file/d/1IEIJzH_fN-6ahPytzmLxWOFW9ARJixjg/view?usp=share_link>)**  A hands-on guide to building, securing, and deploying Docker images on AWS EC2, with key security best practices.
 
 ### 🖥️ Linux Guides
 - **[Linux Hands-On Guide (Step-by-Step with Pictures)](<https://drive.google.com/file/d/1OABD8jZEDb5catu3vavHPrhYTsIpsE96/view?usp=share_link>)**  
